@@ -1,7 +1,7 @@
 {
   "name": "test-cra-project",
   "version": "0.1.0",
-  "homepage": "https://github.com/VadymStroikov/test-cra-project.git",
+  "homepage": "https://vadymstroikov.github.io/test-cra-project/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
